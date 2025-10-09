@@ -224,10 +224,11 @@ bash eval/eval.sh 'EVAL_PTH' 'SAVE_NAME'
 If you wish to refer to the baseline results published here, please use the following BibTeX entries:
 
 ```BibTeX
-@inproceedings{li2023monkey,
-  title={Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models},
+@inproceedings{li2024monkey,
+  title={Monkey: Image resolution and text label are important things for large multi-modal models},
   author={Li, Zhang and Yang, Biao and Liu, Qiang and Ma, Zhiyin and Zhang, Shuo and Yang, Jingxu and Sun, Yabo and Liu, Yuliang and Bai, Xiang},
   booktitle={proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={26763--26773},
   year={2024}
 }
 @article{liu2024textmonkey,
@@ -257,3 +258,4 @@ The Monkey series is primarily focused on exploring techniques such as image res
 
 ## Copyright
 Monkey project is intended for non-commercial use only. For commercial inquiries or to explore more advanced versions of the Monkey series LMMs (<1b, 2b, 7b, 72b), please contact Prof. Yuliang Liu at ylliu@hust.edu.cn. 
+
