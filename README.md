@@ -49,7 +49,7 @@
 [![Model Weight in Wisemodel](https://img.shields.io/badge/Model_Weight_in_Wisemodel-gray)](https://www.wisemodel.cn/models/HUST-VLRLab/Mini-Monkey)
 [![Model Weight](https://img.shields.io/badge/Model_Weight-gray)](https://huggingface.co/mx262/MiniMokney)
 
-> [**Liquid: Language Models are Scalable and Unified Multi-modal Generators**](https://arxiv.org/pdf/2408.02034)<br>
+> [**[IJCV 2025] Liquid: Language Models are Scalable and Unified Multi-modal Generators**](https://arxiv.org/pdf/2408.02034)<br>
 > Junfeng Wu, Yi Jiang, Chuofan Ma, Yuliang Liu, Hengshuang Zhao, Zehuan Yuan, Song Bai, Xiang Bai<br>
 [![arXiv](https://img.shields.io/badge/Arxiv-2412.04332-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.04332)
 [![Source_code](https://img.shields.io/badge/Code-Available-white)](https://github.com/FoundationVision/Liquid)
@@ -258,4 +258,5 @@ The Monkey series is primarily focused on exploring techniques such as image res
 
 ## Copyright
 Monkey project is intended for non-commercial use only. For commercial inquiries or to explore more advanced versions of the Monkey series LMMs (<1b, 2b, 7b, 72b), please contact Prof. Yuliang Liu at ylliu@hust.edu.cn. 
+
 
